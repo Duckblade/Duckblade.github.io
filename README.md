@@ -6,7 +6,7 @@
 
 This is Prologue, a simple, single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). It features a clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
-Portfolio : <a href="http://david-hoeffel.github.io/portfolio/" target="_blank">http://david-hoeffel.github.io/portfolio/</a>
+Portfolio : <a href="https://david-hoeffel.github.io/portfolio/" target="_blank">https://david-hoeffel.github.io/portfolio/</a>
 
 How to compile :
 
